@@ -1,2 +1,2 @@
 # NBI-Management
-PPT of project
+This repository consists of Powerpoint presentation of database management project of National Bridge Inventory (NBI) Management.
